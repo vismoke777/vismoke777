@@ -1,63 +1,71 @@
-<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Eu sou o Daniel!</h1> 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas</h3>
+# Olá, eu sou o Daniel dos Santos 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-santos-nogueira-205464386" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+**Estudante de Análise e Desenvolvimento de Sistemas na UDF | Dados, SQL e IA aplicada**
 
+Meu portfólio reúne projetos acadêmicos em que modelo bancos de dados, escrevo consultas em SQL e experimento automações com IA em notebooks. Tenho interesse em oportunidades de estágio nas áreas de dados e desenvolvimento.
 
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>Sobre Mim</h3></legend>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-santos-nogueira-205464386)
+[![Ver repositórios](https://img.shields.io/badge/Ver%20reposit%C3%B3rios-202A3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vismoke777?tab=repositories)
 
-  <em>
-Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, com foco em Tecnologia, Dados e Inteligência Artificial. Estudo lógica de programação, banco de dados e desenvolvimento de sistemas, além de Engenharia de Prompt e aplicações de IA.
-  </em> 
-  <br><br>
-<div align= "center">
- <b><i>Tecnologias e Ferramentas</i></b> 
-</div>
+[Projetos em destaque](#projetos-em-destaque) · [Atividade no GitHub](#atividade-no-github)
 
-<br>
-  
-<p style="display: inline-block;" align="center">
-   <kbd>
-    <kbd>Linguagens</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/> 
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  </kbd>
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Banco de Dados</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>IA / Ferramentas</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
-    <img width="30px" src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
-    <img width="30px" src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
-  </kbd>
-  <br>
-</div>
+## Projetos em destaque
 
-<br>
-<br>
+### 🗄️ Bancos de dados em MySQL
 
-- 💼 Contato: **LinkedIn** — [daniel-santos-nogueira](https://www.linkedin.com/in/daniel-santos-nogueira-205464386)
+Desenvolvi bancos de dados para Fórmula 1, uma locadora de veículos e uma biblioteca. No exemplo da biblioteca, modelei a relação entre livros e autores e escrevi consultas com `JOIN`, subconsultas e uma procedure para consultar preços.
 
-</p>
+**MySQL · SQL · Modelagem relacional**  
+[Ver repositório](https://github.com/vismoke777/PROJETOS-SQL) · [Ver código da biblioteca](https://github.com/vismoke777/PROJETOS-SQL/blob/main/biblioteca%20MySql)
+
+### 🧩 Modelagem de dados com BRModelo
+
+Criei modelos conceituais para cenários como uma delegacia, um casamento e um departamento. Os arquivos editáveis mostram as entidades, os atributos e os relacionamentos de cada exercício.
+
+**BRModelo · Diagramas entidade-relacionamento**  
+[Ver repositório](https://github.com/vismoke777/PROJETOS-BRMODELO) · [Abrir material em PDF](https://github.com/vismoke777/PROJETOS-BRMODELO/blob/main/BR.MODELO.pdf)
+
+### 🤖 Engenharia de prompt e automação com IA
+
+Reuni atividades de engenharia de prompt, programação assistida e automação com IA. Os notebooks documentam a parte prática do estudo.
+
+**Python · Jupyter · IA generativa**  
+[Ver repositório](https://github.com/vismoke777/eng.prompt.fundamentos) · [Abrir notebook de automação](https://github.com/vismoke777/eng.prompt.fundamentos/blob/main/Aula8_AutomacaoIA.ipynb)
+
+### 🌐 Estudos de desenvolvimento web
+
+Criei esboços de páginas em HTML e CSS e reuni exercícios de front-end com JavaScript e Bootstrap.
+
+**HTML · CSS · JavaScript · Bootstrap**  
+[Ver exemplos de HTML e CSS](https://github.com/vismoke777/HTML-E-CSS) · [Ver exercícios de front-end](https://github.com/vismoke777/Projetos-de-Treinos)
+
+## Tecnologias e ferramentas
+
+**Dados e IA**
+
+![MySQL](https://img.shields.io/badge/MySQL-1F5D76?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-24744F?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2D507A?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-9F471B?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Desenvolvimento**
+
+![HTML5](https://img.shields.io/badge/HTML5-B43C27?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-315BA8?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=24221C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6243A7?style=for-the-badge&logo=bootstrap&logoColor=white)
+![C](https://img.shields.io/badge/C-3D5078?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A63829?style=for-the-badge&logo=git&logoColor=white)
+
+## Formação complementar
+
+- [MongoDB CRUD](https://github.com/vismoke777/Certificado---DBSKILL)
+- [Introdução à Análise de Dados com Microsoft Power BI](https://github.com/vismoke777/Certificado-INTRODU-O-AN-LISE-DE-DADOS)
+
+## Atividade no GitHub
+
+[![Gráfico de atividade pública em 2026 com 76 commits nas branches padrão de 10 dos 11 repositórios públicos.](assets/atividade-github.svg)](https://github.com/vismoke777#contributions-calendar)
+
+<sub>Dados coletados em 20 de novembro de 2026. O gráfico conta commits da conta nas branches padrão dos repositórios públicos. O calendário do GitHub também inclui outros tipos de contribuição.</sub>
+
+[Ver calendário atualizado](https://github.com/vismoke777#contributions-calendar) · [Explorar todos os repositórios](https://github.com/vismoke777?tab=repositories)

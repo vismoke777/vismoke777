@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="352" viewBox="0 0 760 352" role="img" aria-labelledby="title description">
+  <title id="title">Atividade pública de vismoke777 no GitHub em 2026</title>
+  <desc id="description">76 commits nas branches padrão de 10 dos 11 repositórios públicos. Jan 0, Fev 0, Mar 13, Abr 11, Mai 2, Jun 0, Jul 0, Ago 0, Set 20, Out 5, Nov 25. Recorte até 20 de novembro de 2026.</desc>
+  <rect x="0.5" y="0.5" width="759" height="351" rx="16" fill="#101A2A" stroke="#35475E"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="28" y="43" font-weight="700" font-size="22" fill="#F6FAFF">Atividade no GitHub</text>
+    <text x="732" y="42" text-anchor="end" font-size="13" fill="#9CAEC3">JAN–NOV 2026</text>
+  <g transform="translate(28 72)">
+    <rect width="220" height="64" rx="10" fill="#17253B"/>
+    <text x="14" y="30" font-size="22" font-weight="700" fill="#F6FAFF">76</text>
+    <text x="14" y="50" font-size="12" fill="#B7C6D7">Commits públicos</text>
+  </g>
+  <g transform="translate(270 72)">
+    <rect width="220" height="64" rx="10" fill="#17253B"/>
+    <text x="14" y="30" font-size="22" font-weight="700" fill="#F6FAFF">11</text>
+    <text x="14" y="50" font-size="12" fill="#B7C6D7">Repositórios públicos</text>
+  </g>
+  <g transform="translate(512 72)">
+    <rect width="220" height="64" rx="10" fill="#17253B"/>
+    <text x="14" y="30" font-size="22" font-weight="700" fill="#F6FAFF">10</text>
+    <text x="14" y="50" font-size="12" fill="#B7C6D7">Repositórios com commits em 2026</text>
+  </g>
+    <text x="28" y="172" font-size="13" font-weight="600" fill="#B7C6D7">Commits por mês</text>
+    <path d="M 49 301 H 720" stroke="#2D3E53"/>
+    <text x="42" y="305" font-size="10" text-anchor="end" fill="#9CAEC3">0</text>
+    <path d="M 49 251 H 720" stroke="#2D3E53"/>
+    <text x="42" y="255" font-size="10" text-anchor="end" fill="#9CAEC3">10</text>
+    <path d="M 49 201 H 720" stroke="#2D3E53"/>
+    <text x="42" y="205" font-size="10" text-anchor="end" fill="#9CAEC3">20</text>
+    <g>
+      <rect x="62" y="299" width="22" height="2" rx="1" fill="#40556C"/>
+      
+      <text x="73" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Jan</text>
+    </g>
+    <g>
+      <rect x="123" y="299" width="22" height="2" rx="1" fill="#40556C"/>
+      
+      <text x="134" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Fev</text>
+    </g>
+    <g>
+      <rect x="184" y="236" width="22" height="65" rx="4" fill="#76A7FF"/>
+      <text x="195" y="228" fill="#E6EEF8" font-size="13" font-weight="600" text-anchor="middle">13</text>
+      <text x="195" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Mar</text>
+    </g>
+    <g>
+      <rect x="245" y="246" width="22" height="55" rx="4" fill="#76A7FF"/>
+      <text x="256" y="238" fill="#E6EEF8" font-size="13" font-weight="600" text-anchor="middle">11</text>
+      <text x="256" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Abr</text>
+    </g>
+    <g>
+      <rect x="306" y="291" width="22" height="10" rx="4" fill="#76A7FF"/>
+      <text x="317" y="283" fill="#E6EEF8" font-size="13" font-weight="600" text-anchor="middle">2</text>
+      <text x="317" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Mai</text>
+    </g>
+    <g>
+      <rect x="367" y="299" width="22" height="2" rx="1" fill="#40556C"/>
+      
+      <text x="378" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Jun</text>
+    </g>
+    <g>
+      <rect x="428" y="299" width="22" height="2" rx="1" fill="#40556C"/>
+      
+      <text x="439" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Jul</text>
+    </g>
+    <g>
+      <rect x="489" y="299" width="22" height="2" rx="1" fill="#40556C"/>
+      
+      <text x="500" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Ago</text>
+    </g>
+    <g>
+      <rect x="550" y="201" width="22" height="100" rx="4" fill="#76A7FF"/>
+      <text x="561" y="193" fill="#E6EEF8" font-size="13" font-weight="600" text-anchor="middle">20</text>
+      <text x="561" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Set</text>
+    </g>
+    <g>
+      <rect x="611" y="276" width="22" height="25" rx="4" fill="#76A7FF"/>
+      <text x="622" y="268" fill="#E6EEF8" font-size="13" font-weight="600" text-anchor="middle">5</text>
+      <text x="622" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Out</text>
+    </g>
+    <g>
+      <rect x="672" y="176" width="22" height="125" rx="4" fill="#66E3BF"/>
+      <text x="683" y="168" fill="#E6EEF8" font-size="13" font-weight="600" text-anchor="middle">25</text>
+      <text x="683" y="324" text-anchor="middle" fill="#9CAEC3" font-size="13">Nov</text>
+    </g>
+  </g>
+</svg>
