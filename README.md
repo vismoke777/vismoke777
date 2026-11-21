@@ -64,8 +64,8 @@ Criei esboços de páginas em HTML e CSS e reuni exercícios de front-end com Ja
 
 ## Atividade no GitHub
 
-[![Gráfico de atividade pública em 2026 com 76 commits nas branches padrão de 10 dos 11 repositórios públicos.](assets/atividade-github.svg)](https://github.com/vismoke777#contributions-calendar)
+![Estatísticas de Daniel dos Santos no GitHub](https://github-stats-extended.vercel.app/api?username=vismoke777&show_icons=true&theme=tokyonight&hide_border=true)
 
-<sub>Dados coletados em 20 de novembro de 2026. O gráfico conta commits da conta nas branches padrão dos repositórios públicos. O calendário do GitHub também inclui outros tipos de contribuição.</sub>
+![Linguagens mais usadas nos repositórios públicos](https://github-stats-extended.vercel.app/api/top-langs/?username=vismoke777&layout=compact&theme=tokyonight&hide_border=true)
 
 [Ver calendário atualizado](https://github.com/vismoke777#contributions-calendar) · [Explorar todos os repositórios](https://github.com/vismoke777?tab=repositories)
